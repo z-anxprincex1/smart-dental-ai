@@ -9,7 +9,6 @@ Get the data I'm working with [here](https://catalog.data.gov/dataset/dental-uti
 I'll be handling the Data Engineer's side of things of this project. You're welcome to view this from my perspective. 
 
 **some of my tasks and contributions to this project would be to:**\
-
 - Clean and prepare the data for training.
 - Build a prototype maching model.
 - Increase reliability and robustness using AWS.
