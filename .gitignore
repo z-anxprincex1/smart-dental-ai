@@ -4,8 +4,10 @@ __pycache__/
 *.pyo
 *.pyd
 data/*
+!data/csv/
 !data/csv/d_lab_400.csv
 !data/csv/d_all_synth.csv
+data/csv/*.csv 
 *.png
 *.jpg
 *.jpeg
