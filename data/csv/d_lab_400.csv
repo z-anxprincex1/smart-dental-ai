@@ -1,0 +1,401 @@
+,LAB_ID,LAB_NAME,LAB_POSTAL_CODE,LAB_SPECIALIZATION,LAB_BSNS_MODEL
+0,6253,"Williams, Daugherty and Alvarez",93993,1,2
+1,4685,Salinas-Andersen,95195,1,0
+2,1732,"Pittman, Peterson and Hall",90920,0,0
+3,4743,Hernandez LLC,93252,1,2
+4,4522,Green Ltd,90121,1,2
+5,6341,"Smith, Hill and Everett",90100,1,1
+6,577,"Smith, White and Allen",90676,1,0
+7,5203,Smith Inc,95882,2,0
+8,6364,"Berry, Richardson and Guerrero",96115,0,0
+9,440,Warner-Henderson,92359,2,0
+10,2751,Jackson-Cabrera,92276,0,1
+11,7488,Kennedy and Sons,90325,2,0
+12,5273,Brown LLC,90722,2,0
+13,5654,Weber PLC,90450,1,2
+14,4000,Hammond-Hatfield,94108,1,0
+15,6034,Johnson Ltd,93439,0,2
+16,583,"Williams, Jones and Morris",93922,0,0
+17,9931,Mejia and Sons,95394,0,0
+18,7052,"Trevino, Austin and Thomas",90729,2,1
+19,8159,Rivera-Best,91213,1,1
+20,9897,Gonzales-Moses,93815,0,2
+21,2250,Scott-Boone,91828,0,2
+22,4641,Griffin-Crawford,91034,2,0
+23,9486,Middleton-Lopez,94900,2,0
+24,4948,Sanchez-Molina,95093,2,2
+25,9921,"Brewer, Taylor and Hansen",95896,0,0
+26,1964,Parker-Parker,91622,2,1
+27,8244,Conner-Leonard,90307,1,1
+28,6591,"Davidson, Evans and Harris",95294,1,2
+29,8848,Williams LLC,92625,1,2
+30,322,Thomas-Daniels,92380,0,0
+31,2679,Jacobs-Holloway,90666,0,1
+32,4626,Vasquez Inc,90531,1,0
+33,4950,"Martinez, Lewis and Wilson",90778,0,0
+34,8329,Fry LLC,93469,1,0
+35,3338,Allen Group,91814,2,2
+36,5590,Larson LLC,93291,0,2
+37,252,Snyder-Webster,93036,1,0
+38,3974,"Mcguire, Diaz and Norton",91507,1,0
+39,6631,Ruiz-Price,93414,1,0
+40,5548,Carroll-Lewis,91901,2,0
+41,36,"Mcdonald, Jordan and Andrews",94444,1,1
+42,8363,Waller-Pace,94129,1,2
+43,1514,"Carrillo, Mullins and Johnson",95385,0,0
+44,9318,Greene Group,93064,1,2
+45,40,Boyer-Cook,94939,1,1
+46,4820,Hunt-Rodriguez,94093,0,2
+47,3466,Mathews PLC,92822,2,0
+48,1761,"Lewis, Krause and Browning",95676,2,1
+49,2305,White-Newman,91966,0,0
+50,3724,Wallace LLC,91121,0,2
+51,8285,Ware LLC,94313,2,1
+52,4994,"Rivera, Wright and Williams",91400,1,0
+53,8128,Hunt Inc,95410,0,2
+54,3033,Mosley-Rhodes,94753,0,0
+55,7939,Jimenez Group,94142,0,1
+56,3040,"Brooks, Jackson and Munoz",91685,2,1
+57,9656,"Taylor, Ingram and Austin",92499,2,0
+58,2546,"Price, Roberts and Matthews",90823,2,0
+59,2593,Riley-Murray,92430,1,1
+60,1189,Quinn and Sons,95159,2,0
+61,7967,King PLC,91366,2,0
+62,6078,Perez Group,92810,0,2
+63,108,Hansen-Morales,93975,0,1
+64,1316,Gomez-Maynard,91726,2,1
+65,8188,Medina-Haley,93177,1,2
+66,2754,"Jarvis, Castaneda and Coleman",91508,1,2
+67,9754,Morales-Duran,93804,1,2
+68,6232,"Richardson, Mccarthy and Mckay",91841,0,0
+69,2877,Munoz-Paul,95822,1,0
+70,5324,Roberts PLC,92658,2,2
+71,800,Fitzpatrick Ltd,94468,2,2
+72,3571,Russell Group,94113,0,1
+73,2895,Richard and Sons,91221,2,1
+74,2928,Simmons Inc,92217,0,1
+75,8179,Hughes-Reese,90584,1,0
+76,972,"Reese, Harvey and Vance",93423,0,1
+77,6688,Koch PLC,90439,0,1
+78,8576,Pope Inc,91123,2,1
+79,2021,Humphrey-Sanford,92947,2,1
+80,9055,Miles-Williams,91995,1,2
+81,953,Wilson LLC,90951,0,0
+82,5360,Bradley Inc,92848,1,2
+83,3858,"Chen, White and Jarvis",92383,2,1
+84,5862,"Davis, White and Chandler",91938,2,0
+85,3146,Mccarthy-Short,93348,1,0
+86,3306,Bishop PLC,95965,0,2
+87,3007,"Miranda, May and Dudley",93642,0,0
+88,9002,Williams-Pruitt,93314,2,2
+89,7771,Blake Ltd,94580,1,2
+90,7439,Cunningham-Smith,90334,2,1
+91,7943,"Rios, Smith and Holloway",92374,0,0
+92,9239,"Bryant, Green and Ward",92319,0,0
+93,1057,Lester and Sons,96135,1,2
+94,3155,Sexton and Sons,93090,1,1
+95,3788,Palmer Inc,95804,2,0
+96,9190,"Hayden, Walker and Fuller",95139,0,0
+97,7826,"Sanchez, Daniel and Smith",90910,2,0
+98,7540,"Mcgee, West and Lowery",96002,1,1
+99,7232,Holt-Bishop,93894,2,1
+100,765,"Guerrero, Martinez and Martinez",91977,0,1
+101,5020,Sharp-Young,90860,1,0
+102,4904,Butler LLC,93645,0,0
+103,8094,Young-Jones,91226,0,0
+104,6844,Williams-Miller,92135,1,0
+105,2166,"Williams, Snyder and Trevino",92966,1,2
+106,1863,"Holden, Leon and Vaughn",91294,1,1
+107,7851,Oconnor Ltd,95975,0,2
+108,9124,Anderson Group,96049,0,2
+109,2341,Jones-Maxwell,95985,2,0
+110,5528,Mckinney PLC,93066,0,0
+111,6744,"Reilly, Dean and Smith",94279,1,2
+112,4004,Dominguez PLC,95778,1,1
+113,1124,"Brown, Soto and Kennedy",90439,0,2
+114,8710,Dawson LLC,93372,2,2
+115,4050,"Robinson, Green and Reynolds",95945,2,1
+116,7641,Rivera-Murphy,91251,0,0
+117,766,Jacobs-Mason,95391,1,2
+118,2345,Foster-Kennedy,90401,2,0
+119,4072,Shaw PLC,93242,2,0
+120,7217,Williams-Roy,93825,2,0
+121,4217,Reynolds Inc,91432,2,2
+122,7953,Stewart-Morse,95941,2,1
+123,5971,Graves Inc,91080,0,0
+124,3351,Mayo-Dean,90591,1,0
+125,4696,Barr-Maxwell,93847,1,0
+126,3400,"Banks, Johnson and Escobar",91966,2,2
+127,4082,Baker-Nelson,91837,1,0
+128,9150,Gutierrez Ltd,93377,0,0
+129,1225,Thomas LLC,93714,2,1
+130,6293,Sharp Group,90141,2,0
+131,3123,Gordon-Ford,94672,2,2
+132,511,Baxter-Lloyd,90165,2,2
+133,5795,"Wolfe, Phillips and Jensen",91797,1,0
+134,8182,Lynn-Cruz,92900,1,0
+135,9418,"Lane, Rodriguez and Houston",95797,2,0
+136,97,"Bartlett, Flores and Bowman",92608,1,2
+137,6682,"Lopez, Thompson and David",92759,0,1
+138,1513,Phillips-Valdez,94132,2,0
+139,8792,"Jenkins, Erickson and Barton",90049,2,2
+140,120,Lewis-Williams,94684,0,1
+141,7792,"Watson, Terrell and Nielsen",90827,0,2
+142,6518,Prince-Ward,94661,1,0
+143,34,Juarez-Sullivan,93404,2,2
+144,7888,Johnson and Sons,95299,2,1
+145,6831,Ballard Inc,94285,0,2
+146,5422,Goodwin LLC,90773,0,2
+147,1069,"Wolfe, Nelson and Miller",90667,1,2
+148,1348,Simon-Reynolds,93619,0,2
+149,4748,"Fisher, Mcknight and Kline",92532,0,1
+150,6006,"Donovan, Sullivan and Gonzalez",94297,2,2
+151,6040,Ruiz-Dawson,94152,2,2
+152,3818,"Smith, Wilson and Aguilar",95477,1,1
+153,8447,Thompson-Crane,90935,0,1
+154,5270,Irwin Inc,91891,0,0
+155,6898,Gross Ltd,94724,0,0
+156,5310,"Hawkins, Oconnor and White",94375,0,0
+157,32,"Thompson, Smith and Thompson",94081,2,1
+158,5675,Galloway LLC,90271,0,0
+159,4387,Daniel-Harris,90207,0,0
+160,30,Atkinson-Nolan,93227,0,2
+161,4203,"Villanueva, Austin and Allen",94886,2,2
+162,7508,Skinner Ltd,92893,0,2
+163,736,"White, Brown and Wright",96105,2,0
+164,2068,Nichols-Donaldson,94968,2,0
+165,107,Gregory Group,90252,1,1
+166,9645,Thompson-Medina,92758,0,1
+167,8895,Bailey Group,90933,1,0
+168,8021,Alvarez Group,93524,0,0
+169,2233,Parker-Brown,90169,1,0
+170,994,Gonzalez PLC,92591,2,1
+171,9413,Morris-Velasquez,92195,2,2
+172,7059,Bass Inc,93362,2,0
+173,6790,"Cook, Robinson and Castillo",94633,2,0
+174,361,Roberts-Marshall,90275,1,1
+175,305,Smith-Baker,94420,0,2
+176,2628,Chen Group,95618,2,1
+177,8966,Hall-Daniels,94097,0,1
+178,4514,Duffy and Sons,90682,1,1
+179,5911,"Simpson, Mccullough and Johnson",90688,0,0
+180,8314,"Delacruz, Walker and Myers",95152,2,1
+181,3101,Anderson Ltd,91283,2,2
+182,5704,"Nichols, White and Flores",95436,1,1
+183,3899,"Nguyen, Coleman and Herrera",95729,0,1
+184,5441,Freeman Ltd,90924,1,0
+185,7931,Waters PLC,91159,2,2
+186,622,Rivera Ltd,93510,2,1
+187,7236,Smith-Odom,92536,2,0
+188,2499,Cooper-Stephens,93164,0,0
+189,714,Mitchell-Morris,92077,2,2
+190,8404,Werner LLC,91951,2,1
+191,2856,Davis-Thompson,94657,2,0
+192,4270,Wallace-Baker,93701,0,2
+193,2909,Schultz-Robinson,90526,1,1
+194,8081,Dunn-Johnson,91701,1,1
+195,4517,Booker-Miller,91469,1,2
+196,1262,West Inc,92466,0,0
+197,3161,Rodriguez-Smith,95407,2,1
+198,971,Ross Inc,95419,1,0
+199,3913,"Mason, Johnson and Shields",96008,2,0
+200,5199,"Cabrera, Williams and Kelly",94506,2,1
+201,8847,"Atkins, Gonzalez and Rosales",93453,1,1
+202,260,Smith and Sons,91999,1,2
+203,3791,"Smith, Vega and Burton",93053,0,0
+204,9203,Chen-Stevens,90572,0,0
+205,488,"Gates, Strickland and Hughes",94461,1,0
+206,7908,"Stewart, Parker and Wilson",93115,2,0
+207,519,Allen-Brown,95732,2,1
+208,8343,Farley and Sons,94751,1,1
+209,312,"Marquez, Anderson and Duke",91523,2,2
+210,3232,"Johnson, Rodgers and Brown",93386,1,0
+211,7933,Washington-Randolph,95036,1,1
+212,7458,"Hernandez, Lopez and Johnston",93203,1,2
+213,9784,Gonzalez Group,90013,0,1
+214,5184,Cabrera PLC,92116,0,0
+215,8077,Mitchell Ltd,90332,2,1
+216,6502,"Smith, Murray and Rodriguez",94214,0,1
+217,6791,"Powell, Hill and Dillon",91255,0,2
+218,7773,Lin Group,95693,0,0
+219,2738,Mcgee-Smith,95402,1,0
+220,7842,Simon Inc,92783,1,0
+221,6262,George-Barker,93298,0,2
+222,8206,"Keller, Mcknight and Turner",95110,1,2
+223,1248,Miller-Fuller,93263,0,1
+224,9336,Turner LLC,91019,0,0
+225,4195,Evans-Russell,94950,2,0
+226,8001,"Bradford, Pope and Graham",91850,2,0
+227,7378,Smith Group,95485,0,1
+228,3435,Lynch PLC,95556,2,1
+229,5382,Hill Group,95818,1,0
+230,959,Miller-White,91010,1,0
+231,417,"Whitehead, Kim and Morgan",92344,2,0
+232,5742,Holmes Ltd,93328,1,2
+233,6728,Lee LLC,92704,2,0
+234,4382,Russell and Sons,92591,2,0
+235,5197,"Humphrey, Rivera and Gilbert",95179,2,1
+236,1113,Fernandez Group,91388,2,0
+237,2689,Hawkins Group,94956,0,2
+238,6473,"Jimenez, Cross and Mcknight",94964,0,0
+239,8820,Herrera-Martin,93791,0,1
+240,7808,"Santana, Anderson and Madden",95897,0,0
+241,3411,Berg-Mclean,92574,2,0
+242,81,"Hammond, Flores and Daniels",92677,1,1
+243,4614,Allen-Hall,92389,0,0
+244,1374,Sawyer and Sons,94313,2,1
+245,1510,Spencer LLC,93242,2,2
+246,6443,Wright-Larson,93285,0,1
+247,3071,"Barker, Mcpherson and Velez",94967,2,2
+248,3016,Odom-Rivera,90165,1,2
+249,4823,"Davis, Coffey and Dominguez",90657,1,1
+250,7822,Gillespie LLC,93391,1,0
+251,93,"Lawson, Lane and Sanford",93976,2,0
+252,9421,Solis Group,93032,1,0
+253,6600,"Mcdonald, Poole and Cook",91948,0,1
+254,4443,"Nelson, Baker and Landry",91337,0,0
+255,7602,"Boyer, Rogers and Pierce",94838,0,0
+256,3835,Williams-Nguyen,90958,2,2
+257,9702,"Rogers, Gomez and Ramos",94084,1,2
+258,4322,Lee Ltd,96040,2,1
+259,3394,Marshall Group,91500,0,2
+260,4752,Davila-Anderson,91853,1,1
+261,7229,"Smith, Johnson and Salinas",92268,1,1
+262,9191,Sanchez PLC,94825,2,1
+263,2361,Fox-Richardson,90331,1,2
+264,1148,"Mcclure, Bailey and Soto",94327,0,0
+265,5666,Frye Ltd,94218,1,2
+266,8075,Schroeder Group,92782,1,0
+267,4943,Costa-Caldwell,94357,1,1
+268,3663,Smith-Swanson,93104,2,1
+269,1563,Dawson-Estrada,93343,0,2
+270,4113,Mitchell Inc,92852,0,1
+271,9050,Curry-Irwin,94986,2,1
+272,9276,Goodman Inc,93418,1,0
+273,8538,"Garcia, Soto and Bryant",91611,1,2
+274,795,"Ritter, Allen and Chavez",92323,2,2
+275,5854,Stone-Thomas,95340,2,1
+276,7619,"Baker, Hicks and Howell",96144,2,2
+277,1594,Wu Group,93886,0,0
+278,7418,"Reynolds, Zimmerman and Gutierrez",94939,0,0
+279,5267,Mccarthy-Boyer,91291,1,0
+280,7147,Gill Ltd,92588,1,0
+281,89,"Clay, Mcclure and Wallace",93905,1,2
+282,8695,Garrison-Flynn,92489,0,2
+283,9732,Morris-Morgan,93064,0,0
+284,9446,"Aguirre, Lozano and Miller",90745,2,1
+285,6754,Bradford and Sons,94938,2,0
+286,3502,Ruiz-Elliott,94513,2,0
+287,2234,"Davis, Flores and Pena",95460,1,0
+288,2803,"Little, Wiley and Guzman",90079,1,2
+289,4424,Swanson Group,93233,0,0
+290,5663,Weiss-Francis,93256,1,0
+291,7170,Hicks Group,94327,0,2
+292,8337,"Trujillo, Carr and Mcintosh",90681,2,2
+293,2148,"Cortez, Walker and Gallegos",94163,0,2
+294,7969,Ward and Sons,93045,2,0
+295,6551,Roman-Miller,90416,0,1
+296,7643,"House, Hill and Johnson",93835,2,1
+297,6164,"Wilson, Mcdowell and Morrow",94974,1,2
+298,1495,"Porter, Mendoza and Miller",90146,1,2
+299,7696,"Daugherty, Cox and Anderson",95233,2,2
+300,7094,"Patton, York and Nichols",92869,2,0
+301,1409,Larson-Miller,91325,2,1
+302,6691,Adams-Howard,96066,1,2
+303,3401,Hernandez and Sons,93317,2,2
+304,109,Nelson Inc,93704,0,0
+305,5636,"Townsend, Santos and Davis",92608,2,0
+306,8482,"Arellano, Klein and Carroll",95474,1,0
+307,6604,Barrera PLC,92722,2,1
+308,1091,Schmidt Group,94247,2,0
+309,5560,"Wilson, Larsen and Rios",91203,0,0
+310,9412,Ortega Group,91842,0,0
+311,8143,"Johnson, Tanner and Davis",92330,2,1
+312,8664,Woods-Adams,94316,0,2
+313,6596,Ingram and Sons,92905,0,0
+314,624,"Mendez, Burch and Luna",96002,1,2
+315,6871,Thompson Inc,93020,2,0
+316,4814,"Acevedo, Reese and Floyd",95636,1,0
+317,6553,Hancock-Armstrong,95940,0,2
+318,7530,Williams Inc,95369,2,2
+319,5796,Smith Group,90838,0,2
+320,7437,"Mosley, Bryan and Harris",95886,2,0
+321,4218,"Tate, Ochoa and Chang",94049,1,1
+322,5941,"Fisher, Lee and Gomez",94084,0,1
+323,8501,"Owen, Hansen and Bowers",90091,2,1
+324,6429,"Kent, Coleman and Patel",94503,1,2
+325,6827,Marshall and Sons,91284,2,2
+326,4131,"Harris, Robinson and Pratt",90339,2,2
+327,7802,Clark-Stephens,94446,0,1
+328,7754,"Moses, Sampson and Mccoy",90985,0,1
+329,4722,"Brown, Curtis and Yu",91656,1,2
+330,1651,Cox LLC,93952,1,2
+331,4141,Burke LLC,90675,1,2
+332,1618,Mcmahon PLC,91042,2,2
+333,2030,Reynolds Ltd,94196,0,0
+334,8518,Ortiz Group,90420,2,1
+335,4576,Cole Group,95404,1,0
+336,3993,"Hall, Miller and Combs",95086,0,1
+337,7377,Torres-Jones,93302,0,0
+338,6150,"Price, Barnett and Freeman",93560,1,1
+339,4909,Anderson and Sons,92857,0,1
+340,5027,Levy-Reynolds,91732,0,2
+341,8261,Garcia-Norris,90850,1,2
+342,4732,Miller Group,90485,0,0
+343,7549,"Dougherty, Fisher and Thomas",93099,0,2
+344,8135,Cochran-Thomas,93722,0,0
+345,1607,Fritz Inc,94305,0,0
+346,4774,Schmidt Inc,91581,1,1
+347,8110,Cook Inc,94048,0,2
+348,6952,"Shannon, Stanton and Obrien",94886,2,2
+349,6005,Baker-Pope,91516,0,0
+350,7729,Martin Inc,92686,0,1
+351,3542,Gonzalez and Sons,92577,1,1
+352,389,Lambert-Frazier,90584,2,2
+353,1795,"Nash, Potter and Moore",94945,1,2
+354,8732,Morrow-Ray,90565,0,0
+355,4920,"Small, Munoz and Tran",95906,1,0
+356,5538,Vazquez Group,90170,0,0
+357,3873,Stevens-Johnson,91469,1,0
+358,8869,Miller Inc,93245,2,1
+359,2255,"Rodriguez, Davis and Mitchell",93980,1,1
+360,3413,Murray-Rogers,90929,2,2
+361,5460,Oliver PLC,93797,2,1
+362,4956,Cunningham PLC,90544,1,2
+363,7397,"Crawford, Mcfarland and Walker",91642,0,2
+364,5415,Russell PLC,95933,2,1
+365,7400,"Clark, Miller and Powell",90197,2,1
+366,7415,"Flowers, Smith and Ramos",92647,2,2
+367,9101,Lopez Ltd,91064,0,1
+368,4852,"Williams, Norton and Parsons",92809,1,0
+369,2026,Meyer Ltd,93370,2,1
+370,2616,"Wright, Olson and Cervantes",93986,2,1
+371,7389,"Marsh, Martinez and Anderson",91921,2,0
+372,2927,"Gardner, Peterson and Newman",91111,1,1
+373,1122,Barton-Yang,91867,0,1
+374,2911,"Johnson, Woods and Heath",94406,2,1
+375,8147,Kennedy-Taylor,90992,1,2
+376,7384,Green Inc,94526,0,1
+377,3483,Duncan Group,95051,0,1
+378,796,Cooper-Perez,92380,0,1
+379,1576,Oconnor PLC,94567,2,1
+380,6177,Thompson-Mullen,93079,1,0
+381,6267,Snyder and Sons,92960,2,1
+382,2459,"Dixon, Lee and Sloan",93240,0,2
+383,3313,Brown Group,93121,1,2
+384,1254,Lee Inc,95888,1,0
+385,6835,Thornton Group,92110,1,0
+386,8795,"Martin, George and Smith",90465,1,1
+387,3838,"Mcfarland, Roman and Owens",90325,2,2
+388,4399,"Nichols, Clark and Aguilar",96073,0,2
+389,3596,"Hartman, Greene and Allen",90855,1,0
+390,6622,Richardson Ltd,93752,0,0
+391,8383,Vazquez Group,93128,0,0
+392,2125,"Robinson, Lee and Cooke",95142,1,2
+393,3239,Banks-Douglas,94650,2,1
+394,5404,"Peterson, Parsons and Mercado",92920,1,1
+395,5999,Fisher-Page,91066,1,0
+396,5939,Mullen-Burgess,91271,1,2
+397,2046,"Pierce, Williams and Moyer",94715,2,2
+398,1579,Hendricks PLC,95409,2,2
+399,15,Calderon and Sons,94482,2,1
