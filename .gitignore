@@ -3,9 +3,9 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
-data/
 !data/csv/d_lab_400.csv
 !data/csv/d_all_synth.csv
+data/
 *.png
 *.jpg
 *.jpeg
