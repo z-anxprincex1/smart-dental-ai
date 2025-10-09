@@ -9,7 +9,6 @@ data/
 *.png
 *.jpg
 *.jpeg
-*.csv
 *.xls
 *.xlsx
 *.html
