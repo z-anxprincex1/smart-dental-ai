@@ -12,3 +12,5 @@ I'll be handling the Data Engineer's side of things of this project. You're welc
 - Perform ETL process on data.
 - Build a prototype macthing model.
 - Increase reliability and robustness using AWS.
+
+# Flask-based backend and GCP hosting for Dental AI can be found [here](https://github.com/z-anxprincex1/gcp-smart-dental-v2-lab.git)
